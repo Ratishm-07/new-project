@@ -1,0 +1,9 @@
+cloud-infra-repo/
+├── terraform/
+│   ├── main.tf
+├── kubernetes/
+│   ├── deployment.yaml
+├── app/
+│   ├── main.py
+├── .github/workflows/
+│   ├── deploy.yaml
